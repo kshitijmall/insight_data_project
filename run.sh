@@ -2,4 +2,4 @@
 #
 # This shell code executes the main python module.
 # It reads the input file, computes desired data, and creates the output file.
-python ./src/pharmacy_main.py
+python ./src/pharmacy_main.py ./input/itcont.txt ./output/top_cost_drug.txt
