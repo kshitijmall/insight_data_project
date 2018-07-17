@@ -10,7 +10,7 @@ Once the nested dictionary was created, sorting was performed by performing a co
 
 Certain errors were raised if the data was found to be corrupt or missing. Input-output errors were also raised. The sorting for this project required nested dictionaries and functools were used.
 
-### Running the code
+## Running the code
 
 The main python file is named as pharmacy_main, which resides in the src folder. This main file includes all the necessary code required for this project.
 
