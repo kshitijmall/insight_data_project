@@ -12,7 +12,7 @@ Certain errors were raised if the data was found to be corrupt or missing. Input
 
 ## Running the code
 
-The main python file is named as pharmacy_main, which resides in the src folder. This main file includes all the necessary code required for this project.
+The main python file is named as pharmacy_main, which resides in the src folder. This main file includes all the necessary code required for this project. This project was developed using Python 3.7 and fix for using it with Python 2 sis yet to be included. 
 
 ## Running the tests
 
